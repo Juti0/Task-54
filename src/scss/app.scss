@@ -29,5 +29,6 @@ html {
 }
 
 .container{
+  display: grid;
   grid-template-rows: 200px 200px 200px;
 }
